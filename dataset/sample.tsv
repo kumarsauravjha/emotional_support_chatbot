@@ -1,0 +1,4 @@
+1.0 0 0 Hi  EOS 1.0 1 1 [Other] Hello! 
+1.0 0 0 Hi  EOS 1.0 1 1 [Other] Hello!  EOS 1.0 1 2 [Other] How's it going today?
+0.0 0 0 Hi  EOS 0.0 1 1 [Other] Hello!  EOS 0.0 1 2 [Other] How's it going today? EOS 0.0 0 3 good.. how are you doing? EOS 1.0 1 4 [Questions] I'm really good. What's on your mind?
+0.0 1 2 [Other] How's it going today? EOS 0.0 0 3 good.. how are you doing? EOS 0.0 1 4 [Questions] I'm really good. What's on your mind? EOS 0.0 0 5 feeling really anxious with the academic pressure EOS 1.0 1 6 [Affirmation and Reassurance] I understand for sure. That's common this time of year. Is anything in particular concerning to you?
